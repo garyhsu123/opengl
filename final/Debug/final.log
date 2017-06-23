@@ -1,0 +1,109 @@
+﻿Build started 2017/6/24 上午 12:25:07.
+     1>Project "C:\Users\AsusNB\Documents\Visual Studio 2013\Projects\final_master\final\final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\final.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\final.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt final.cpp glm.cpp loadpng.cpp
+         loadpng.cpp
+         glm.cpp
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(307): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(308): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(309): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(311): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(312): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(313): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(811): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(812): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(813): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(816): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1016): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1173): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1179): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1180): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1238): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1243): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1245): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1248): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\glm.cpp(1249): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+         final.cpp
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(27): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(164): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(165): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(192): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(193): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(206): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(207): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(214): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(215): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(216): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(217): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(236): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(250): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(298): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(342): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(343): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(372): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(373): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(374): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(375): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(395): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(396): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(397): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(398): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(403): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(404): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(405): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(406): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(430): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(433): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(434): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(435): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(436): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(446): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(452): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(453): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(454): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(455): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(472): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(473): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(474): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(475): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(476): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(480): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(481): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(482): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(483): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(484): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(499): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(500): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(501): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(502): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(503): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(507): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(508): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(509): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(510): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(511): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1252): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1279): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1307): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1338): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1341): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1358): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1360): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1377): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1379): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\asusnb\documents\visual studio 2013\projects\final_master\final\final.cpp(1657): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AsusNB\Documents\Visual Studio 2013\Projects\final_master\Debug\final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib glew32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib freeglut.lib glew32s.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\AsusNB\Documents\Visual Studio 2013\Projects\final_master\Debug\final.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AsusNB\Documents\Visual Studio 2013\Projects\final_master\Debug\final.lib" /MACHINE:X86 Debug\final.obj
+         Debug\glm.obj
+         Debug\loadpng.obj
+         Debug\stdafx.obj
+         final.vcxproj -> C:\Users\AsusNB\Documents\Visual Studio 2013\Projects\final_master\Debug\final.exe
+     1>Done Building Project "C:\Users\AsusNB\Documents\Visual Studio 2013\Projects\final_master\final\final.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.60
